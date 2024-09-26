@@ -1,6 +1,6 @@
 # Project 2
 
-Welcome to my project! Click [**here**](https://ayushatree.github.io/project-2/) to check it out.
+Welcome to my project! Click [**here**](https://harishmaru1.github.io/project-2/) to check it out.
 
 ## Description
 
@@ -15,10 +15,10 @@ This project is a modern web page built using HTML, CSS, and JavaScript. It inco
 
 ## Usage
 
-To see the project live and experience the scroller animation, visit the link: [**here**](https://ayushatree.github.io/project-2/).
+To see the project live and experience the scroller animation, visit the link: [**here**](https://harishmaru1.github.io/project-2/).
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayushatree/project-2.git
+   git clone https://github.com/harishmaru1/project-2.git
