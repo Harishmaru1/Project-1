@@ -1,4 +1,4 @@
-# Project 2
+# Project-1
 
 Welcome to my project! Click [**here**](https://harishmaru1.github.io/project-2/) to check it out.
 
